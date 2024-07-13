@@ -1,0 +1,1 @@
+# atom-use-my-lib
